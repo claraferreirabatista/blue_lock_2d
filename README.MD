@@ -4,7 +4,9 @@
 > 
 > Estes tutoriais não são oficiais e algumas seções ainda estão faltando.
 >
-> Eu traduzi o [repositório](https://github.com/herodrigues/robocup2d-tutorial/tree/master) a fim de organizar todas as informações que pude reunir e compartilhar com outros desenvolvedores da minha equipe.
+> Traduzi parte do [repositório](https://github.com/herodrigues/robocup2d-tutorial/tree/master) com o objetivo de organizar todas as informações que pude reunir e compartilhá-las com outros desenvolvedores da minha equipe. É importante destacar que foram feitas algumas alterações para assegurar a reprodução local. Por exemplo, foi criada uma pasta chamada 'script' que contém um script pronto no formato .md, nomeado como [script/script_futebol_2d.sh](https://github.com/claraferreirabatista/robocup2d_server_tutorial/blob/main/script/script_futebol_2d.sh), para executar o script de forma automatizada."
+
+
 >
 > Não há garantia de que tudo funcionará corretamente no seu sistema operacional. Por favor, esteja ciente disso!
 >
