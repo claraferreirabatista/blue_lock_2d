@@ -1,6 +1,6 @@
 # Rodando uma partida
 
-Para realizar este tutorial, você deve ter lido o [tutorial anterior](https://github.com/claraferreirabatista/blue_lock_2d/como_instalar_o_servidor_e_o_monitor.md).
+Para realizar este tutorial, você deve ter lido o [tutorial anterior](https://github.com/claraferreirabatista/blue_lock_2d/blob/main/como_instalar_o_servidor_e_o_monitor.md).
 
 
 # Simulador de Jogo de Futebol 2D

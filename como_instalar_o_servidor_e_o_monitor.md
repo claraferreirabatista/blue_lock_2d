@@ -98,4 +98,4 @@ Fonte: http://askubuntu.com/a/892432/664657
 ### Conclusão
 
 Com tudo feito, é hora de rodar uma partida e testar se tudo foi feito sem erros.
-Veja o próximo tutorial [aqui](https://github.com/claraferreirabatista/blue_lock_2d/como_funciona_o_script_para_inicar_partida.md).
+Veja o próximo tutorial [aqui](https://github.com/claraferreirabatista/blue_lock_2d/blob/main/script/como_funciona_o_script_para_inicar_partida.md).
