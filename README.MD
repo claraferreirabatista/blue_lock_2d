@@ -4,7 +4,7 @@
 > 
 > Estes tutoriais não são oficiais e algumas seções ainda estão faltando.
 >
-> Eu traduzi o [repositório](https://github.com/herodrigues/robocup2d-tutorial/tree/master) afim de organizar todas as informações que pude reunir e compartilhar com outros desenvolvedores da minha equipe.
+> Eu traduzi o [repositório](https://github.com/herodrigues/robocup2d-tutorial/tree/master) a fim de organizar todas as informações que pude reunir e compartilhar com outros desenvolvedores da minha equipe.
 >
 > Não há garantia de que tudo funcionará corretamente no seu sistema operacional. Por favor, esteja ciente disso!
 >
