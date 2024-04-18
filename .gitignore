@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.rcg
+*.rcl
 
 # Compiled Object files
 *.slo

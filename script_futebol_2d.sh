@@ -28,7 +28,7 @@ rcssserver &
 rcssmonitor &
 
 # Inicia execução dos times previamente nomeados em segundo plano.
-pushd "/home/clara/Área de Trabalho/blue_lock_2d/agent2d-3.1.1/src"
+pushd "agent2d-3.1.1/src"
 ./start.sh -t $1 &
 ./start.sh -t $2 &
 
